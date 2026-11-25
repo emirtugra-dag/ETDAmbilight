@@ -10,6 +10,12 @@
   <b>Geliştirici / Developer: Emir Tuğra Dağ</b>
 </p>
 
+## 📸 Ekran Görüntüleri / Screenshots
+
+| Ambilight Düzeni & Canlı Önizleme / Layout & Preview | Sistem & Başlangıç / System & Startup |
+| :---: | :---: |
+| ![ETDAmbilight Layout](assets/screenshot-layout.png) | ![ETDAmbilight System](assets/screenshot-system.png) |
+
 ---
 
 ## 🇹🇷 Türkçe
