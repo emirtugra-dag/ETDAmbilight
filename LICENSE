@@ -1,0 +1,70 @@
+================================================================================
+ETDAmbilight — License & Legal Notice
+Developer & Rights Holder: Emir Tuğra Dağ (Independent Individual Developer)
+================================================================================
+
+1. MIT CODE LICENSE
+
+Copyright (c) 2026 Emir Tuğra Dağ
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+2. BRAND & LOGO IP POLICY (EXCLUDED FROM MIT LICENSE)
+
+The MIT License in Section 1 applies strictly to the source code, build
+scripts, and runtime logic of this repository.
+
+The project name ("ETDAmbilight"), official logos (including
+"uygulamaLogosu.jpg" and "assets/logo.png"), application icons ("src/icon.ico"),
+preview graphics, and visual brand identity are explicitly EXCLUDED from the
+MIT License. All copyright and intellectual property rights in these visual
+and brand assets belong exclusively to Emir Tuğra Dağ (All Rights Reserved).
+
+Anyone who forks, redistributes, or builds derivative works from this codebase
+MUST replace the project name, logos, and application icons with their own
+distinct branding.
+
+
+--------------------------------------------------------------------------------
+3. ABSOLUTE DISCLAIMER OF LIABILITY (AS IS)
+
+This software is developed by an independent individual developer (Emir Tuğra
+Dağ) and is provided strictly "AS IS" without warranty of any kind, express or
+implied.
+
+Under no circumstances shall Emir Tuğra Dağ be held legally, civilly, or
+otherwise liable for any data loss, system lockout or access disruption,
+hardware or LED strip damage, electrical/software failure, or any direct,
+indirect, incidental, special, or consequential damages arising out of the use
+or inability to use this software. All risk of installation and operation rests
+solely with the user. The developer makes no commitment to provide updates,
+bug fixes, or technical support.
+
+
+--------------------------------------------------------------------------------
+4. THIRD-PARTY TRADEMARKS
+
+"Windows", "DirectX", and "DXGI" are trademarks of Microsoft Corporation.
+"Arduino" is a trademark of Arduino AG. "FastLED" is an open-source project by
+its respective contributors. "CH340" / "CH341" are product designations of
+Nanjing Qinheng Microelectronics Co., Ltd. (WCH). Reference to these names is
+solely for hardware/software compatibility description and does not imply any
+endorsement or affiliation.

@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+dist/
+*.o
+*.exe
+*.exe.old
+*.exe.tmp
+
+# Local editor / OS junk
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
