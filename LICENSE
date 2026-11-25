@@ -36,7 +36,7 @@ The project name ("ETDAmbilight"), official logos (including
 "uygulamaLogosu.jpg" and "assets/logo.png"), application icons ("src/icon.ico"),
 preview graphics, and visual brand identity are explicitly EXCLUDED from the
 MIT License. All copyright and intellectual property rights in these visual
-and brand assets belong exclusively to Emir Tuğra Dağ (All Rights Reserved).
+and brand assets belong exclusively to Emir Tuğra Dağ.
 
 Anyone who forks, redistributes, or builds derivative works from this codebase
 MUST replace the project name, logos, and application icons with their own

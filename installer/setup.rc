@@ -18,7 +18,6 @@ BEGIN
     BEGIN
         BLOCK "040904B0"
         BEGIN
-            VALUE "CompanyName",      "Emir Tuğra Dağ"
             VALUE "FileDescription",  "ETDAmbilight Setup & Updater Wizard"
             VALUE "FileVersion",      "2.0.0.0"
             VALUE "InternalName",     "ETDAmbilight-Setup"

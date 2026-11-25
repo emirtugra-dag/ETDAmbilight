@@ -357,7 +357,7 @@ static inline std::wstring LicenseSummaryText() {
             L"Source code and runtime logic are open source under the standard MIT License.\r\n\r\n"
             L"2. BRAND & LOGO IP POLICY (Excluded from MIT):\r\n"
             L"The project name, official logos, and icons are NOT covered by the MIT License. "
-            L"All Rights Reserved by Emir Tuğra Dağ. Forks/derivatives must replace brand names and icons.\r\n\r\n"
+            L"Intellectual property rights belong exclusively to Emir Tuğra Dağ. Forks/derivatives must replace brand names and icons.\r\n\r\n"
             L"3. ABSOLUTE DISCLAIMER OF LIABILITY (AS IS):\r\n"
             L"Provided \"AS IS\", without warranty of any kind. Emir Tuğra Dağ is not liable for any data loss, "
             L"system issues, hardware/LED strip damage, or any direct or indirect damages. All usage risk is yours.";
@@ -370,7 +370,7 @@ static inline std::wstring LicenseSummaryText() {
         L"Tüm kaynak kodları standart MIT Lisansı altında açık kaynaklıdır.\r\n\r\n"
         L"2. MARKA, LOGO VE FİKRİ MÜLKİYET (MIT Kapsamı Dışında):\r\n"
         L"Proje ismi, resmi logolar ve uygulama simgeleri MIT Lisansı kapsamı dışındadır. "
-        L"Tüm hakları Emir Tuğra Dağ'a aittir (All Rights Reserved). Türev projelerde değiştirilmesi zorunludur.\r\n\r\n"
+        L"Fikri mülkiyet hakkı Emir Tuğra Dağ'a aittir. Türev projelerde değiştirilmesi zorunludur.\r\n\r\n"
         L"3. EKSİKSİZ SORUMLULUK REDDİ (AS IS):\r\n"
         L"Yazılım \"olduğu gibi\" ve hiçbir garanti olmaksızın sunulur. Veri kaybı, sistem/donanım hasarı veya "
         L"doğrudan/dolaylı hiçbir zarardan Emir Tuğra Dağ sorumlu tutulamaz. Tüm kullanım riski kullanıcıya aittir.";

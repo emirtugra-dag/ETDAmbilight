@@ -94,7 +94,7 @@ build.bat
 
 - **Bağımsız Geliştirici:** Bu yazılım bağımsız bireysel geliştirici **Emir Tuğra Dağ** tarafından geliştirilmiştir. Herhangi bir şirket, kurum veya tüzel kişilikle bağlantılı değildir.
 - **Kaynak Kod Lisansı (MIT):** Tüm kaynak kodları, betikler ve çalışma mantığı standart **MIT Lisansı** (`Copyright (c) 2026 Emir Tuğra Dağ`) altındadır.
-- **Marka ve Logo Koruması:** `ETDAmbilight` ismi, resmi logolar (`.png`, `.jpg`) ve uygulama simgeleri (`.ico`) **MIT Lisansı kapsamının dışındadır**; tüm hakları **Emir Tuğra Dağ**'a aittir (**Tüm Hakları Saklıdır**). Kodları çatallayan (fork) veya türev proje geliştirenlerin proje ismini, logoları ve simgeleri değiştirmesi zorunludur.
+- **Marka ve Logo Koruması:** `ETDAmbilight` ismi, resmi logolar (`.png`, `.jpg`) ve uygulama simgeleri (`.ico`) **MIT Lisansı kapsamının dışındadır**; fikri mülkiyet hakkı **Emir Tuğra Dağ**'a aittir. Kodları çatallayan (fork) veya türev proje geliştirenlerin proje ismini, logoları ve simgeleri değiştirmesi zorunludur.
 - **Sorumluluk Reddi (AS IS):** Yazılım "olduğu gibi" ve hiçbir garanti olmaksızın sunulmaktadır. Kullanımından veya kullanılamamasından doğabilecek veri kayıpları, sistem sorunları, donanım/LED hasarları veya doğrudan/dolaylı hiçbir zarardan **Emir Tuğra Dağ** sorumlu tutulamaz. Tüm risk kullanıcıya aittir; güncelleme veya teknik destek sağlama taahhüdü yoktur.
 
 ---
@@ -132,5 +132,5 @@ Outputs are generated in `dist\ETDAmbilight.exe` and `dist\ETDAmbilight-Setup.ex
 
 - **Independent Developer:** This project is created and maintained by independent individual developer **Emir Tuğra Dağ**, with no corporate or institutional entity.
 - **Source Code License (MIT):** All source code, build scripts, and runtime logic are open source under the standard **MIT License** (`Copyright (c) 2026 Emir Tuğra Dağ`). See [LICENSE](LICENSE) for full terms.
-- **Brand & Logo IP Policy:** The project name (`ETDAmbilight`), official logos (`.png`, `.jpg`), and application icons (`.ico`) are **excluded from the MIT License** and remain **All Rights Reserved** by **Emir Tuğra Dağ**. Forks and derivative projects must use their own name, logos, and icons.
+- **Brand & Logo IP Policy:** The project name (`ETDAmbilight`), official logos (`.png`, `.jpg`), and application icons (`.ico`) are **excluded from the MIT License**; all intellectual property rights belong exclusively to **Emir Tuğra Dağ**. Forks and derivative projects must use their own name, logos, and icons.
 - **Disclaimer of Liability (AS IS):** This software is provided "AS IS", without warranty of any kind. **Emir Tuğra Dağ** shall not be held liable under any circumstances for data loss, system lockouts, hardware/software damage, or any direct or indirect damages arising from using or being unable to use this software. All usage risk rests solely with the user, with no obligation for updates or technical support.
